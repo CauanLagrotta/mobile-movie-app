@@ -22,7 +22,6 @@
 
 5. 🕸️ [Trechos de Código](#snippets)
 
-6. 🚀 [Mais](#more)
 
 ## <a name="introduction">🤖 Introdução</a>
 
