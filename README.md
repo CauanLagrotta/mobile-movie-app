@@ -248,3 +248,8 @@ interface TrendingCardProps {
 ```
 
 </details>
+
+## Melhorias futuras
+
+- [] Adicionar funcionalidade de salvar filmes
+- [] Fazer a tela de perfil
